@@ -1,3 +1,1 @@
-# nightlytech.github.io
-# Build settings
-theme: moonwalk
+# ☕ Buy coffee for the author
